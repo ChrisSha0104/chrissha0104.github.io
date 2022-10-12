@@ -24,14 +24,14 @@ p{
     margin: 0.2em;
 }
 
-ol, ul {
+/* ol, ul {
     list-style: none;
 }
 
 ul {
     list-style-position: inside;
     list-style-type: none;
-}
+} */
 
 a {
     text-decoration: none;
