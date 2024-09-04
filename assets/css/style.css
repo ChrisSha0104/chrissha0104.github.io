@@ -24,14 +24,10 @@ p{
     margin: 0.2em;
 }
 
-/* ol, ul {
-    list-style: none;
-}
 
 ul {
-    list-style-position: inside;
-    list-style-type: none;
-} */
+    padding-left: 40px; /* Indents the entire list */
+}
 
 a {
     text-decoration: none;
